@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @WMDOWeerasinghe
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Technology Management
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me dihansieweerasinghe2020@gmail.com
+
+- Connect with me:
 
 <!---
 WMDOWeerasinghe/WMDOWeerasinghe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
