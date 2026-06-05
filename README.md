@@ -21,7 +21,7 @@ Passionate about Mobile App Development, Full-Stack Development, Artificial Inte
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/dihansie-weerasinghe-4b7bb7285/)">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 </p>
@@ -64,15 +64,15 @@ C# + SQL Server
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=WMDOWeerasinghe&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WMDOWeerasinghe&show_icons=true&theme=github_dark" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WMDOWeerasinghe&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=WMDOWeerasinghe&theme=github-dark" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WMDOWeerasinghe&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WMDOWeerasinghe&layout=compact&theme=github_dark" />
 </p>
 
 ---
