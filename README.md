@@ -10,7 +10,7 @@ Passionate about Mobile App Development, Full-Stack Development, Artificial Inte
 
 ## 👩‍🎓 About Me
 
-- 🎓 3rd Year Technology Management Undergraduate at NSBM Green University
+- 🎓 Final Year Technology Management Undergraduate at NSBM Green University
 - 🌾 Currently developing **AgriSense**, an AI-powered Smart Crop Recommendation System for my Final Year Project
 - 💻 Interested in Software Development, Mobile Applications, AI, and Full-Stack Development
 - 🚀 Seeking Internship Opportunities
@@ -21,7 +21,7 @@ Passionate about Mobile App Development, Full-Stack Development, Artificial Inte
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/dihansie-weerasinghe-4b7bb7285/)">
+<a href="https://www.linkedin.com/in/dihansie-weerasinghe-4b7bb7285/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 </p>
@@ -64,17 +64,12 @@ C# + SQL Server
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WMDOWeerasinghe&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WMDOWeerasinghe&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=WMDOWeerasinghe&theme=github-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WMDOWeerasinghe&layout=compact&theme=radical" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WMDOWeerasinghe&layout=compact&theme=github_dark" />
-</p>
-
 ---
 
 ⭐ Thanks for visiting my profile!
